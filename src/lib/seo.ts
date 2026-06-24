@@ -92,7 +92,7 @@ export function localBusinessSchema(city: string, state: string, slug: string) {
     "image": `${BASE_URL}/og-image.jpg`,
     "url": `${BASE_URL}/${slug}`,
     "telephone": "+919177699570",
-    "email": "happyhomeinteriorsvizag@gmail.com",
+    "email": "Happyhomeinteriors1405@gmail.com",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": city,
